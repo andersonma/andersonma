@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; **Corrdernador de Sistemas/TI** na <a  href="http://gonpetro.com.br">GonPetro</a>  
 
-- 🌱 &nbsp; Sempre buscando aprimoramento e conhecimento em novos Frameworks **JS, React e DevOps**.
+- 🌱 &nbsp; Sempre buscando aprimoramento e conhecimento em **NodeJS, React, React Native e DevOps**.
 
 
 <h3> :rocket: &nbsp;Skills </h3>
