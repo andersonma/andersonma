@@ -2,14 +2,12 @@
 <h3> &nbsp;Sobre mim </h3> 
 - 🤖 &nbsp; Entre outras coisas especialista e desenvolvedor ADVPL no ERP TOTVS Protheus.  
 
-- 💼 &nbsp; **Corrdernador de Sistemas/TI** na <a  href="http://gonpetro.com.br">GonPetro</a>  
+- 💼 &nbsp; **Coordernador de Sistemas/TI** na <a  href="http://gonpetro.com.br">GonPetro</a>  
 
 - 🌱 &nbsp; Sempre buscando aprimoramento e conhecimento em **NodeJS, React, React Native e DevOps**.
 
 
 <h3> :rocket: &nbsp;Skills </h3>
-
-![Scrum](https://img.shields.io/badge/Scrum%20Master-blue)  
 
 ![TOTVS](https://img.shields.io/badge/TOTVS-blue)
 ![ADVPL](https://img.shields.io/badge/ADVPL-black)
